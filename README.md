@@ -24,7 +24,6 @@ University: Kalinga Institute of Industrial Technology
 
 * Cybersecurity
 * FastAPI
-* Backend development
 * Security research
 
 ---
@@ -67,10 +66,9 @@ Cybersecurity project that analyzes password strength.
 **Stack**
 
 * FastAPI
-* Python
-* Frontend UI
-
-More tools coming soon...
+* Strong Password Generator
+* Breach Checker
+* Crack Estimation time
 
 ---
 
@@ -94,5 +92,4 @@ https://www.linkedin.com/in/pritam-munshi-050844300/
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=00ff00&style=flat">
 </p>
