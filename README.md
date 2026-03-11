@@ -70,7 +70,7 @@ Cybersecurity project that analyzes password strength.
 * Breach Checker
 * Crack Estimation time
 
-**Host Link: https://password-strength-checker-three-pi.vercel.app/**
+**Host Link: https://password-strength-check-git-634659-radioactive-cookies-projects.vercel.app/**
 
 ---
 
