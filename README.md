@@ -85,6 +85,9 @@ Cybersecurity project that analyzes password strength.
 💼 LinkedIn
 https://www.linkedin.com/in/pritam-munshi-050844300/
 
+📷 Instagram
+https://www.instagram.com/mr_nolander20/
+
 ---
 
 # ☠️ Hacker Philosophy
