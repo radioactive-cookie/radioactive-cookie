@@ -69,9 +69,23 @@ Cybersecurity project that analyzes password strength.
 * Strong Password Generator
 * Breach Checker
 * Crack Estimation time
+* Entropy Calculation
+* Render( backend ) + Vercel( frontend )
 
 **Host Link: https://password-strength-check-git-634659-radioactive-cookies-projects.vercel.app/**
 
+## 🔌 Intelligent Energy Grid Balancer
+An AI-driven smart grid simulator that balances renewable energy supply and demand in real time.
+
+**Stack**
+
+* React + Vite + TailwindCSS
+* Node.js + Express + WebSocket
+* Recharts
+* Render (backend) + Vercel (frontend)
+* Strategy Flowcharts
+
+**Host Link: https://intelligent-energy-grid-balancer.vercel.app/**
 ---
 
 
