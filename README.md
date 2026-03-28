@@ -86,6 +86,7 @@ An AI-driven smart grid simulator that balances renewable energy supply and dema
 * Strategy Flowcharts
 
 **Host Link: https://intelligent-energy-grid-balancer.vercel.app/**
+
 ---
 
 
