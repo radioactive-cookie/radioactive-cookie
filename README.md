@@ -53,8 +53,8 @@ University: Kalinga Institute of Industrial Technology
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge\&logo=linux\&logoColor=00ff00)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge\&logo=git\&logoColor=00ff00)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github\&logoColor=00ff00)
-![VSCode](https://img.shields.io/badge/VSCode-000000?style=for-the-badge\&logo=visualstudiocode\&logoColor=00ff00)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00ff00)
+![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00ff00)
 
 ---
 
