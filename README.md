@@ -64,29 +64,48 @@ University: Kalinga Institute of Industrial Technology
 
 Cybersecurity project that analyzes password strength.
 
-**Stack**
+**Features**
 
-* FastAPI
-* Strong Password Generator
-* Breach Checker
-* Crack Estimation time
-* Entropy Calculation
-* Render( backend ) + Vercel( frontend )
+* Advanced Password Strength Analysis (entropy, crack time, strength scoring)
+* Real-time Feedback and Visual Indicators
+* Entropy and Bits-per-Character Calculation
+* Breach Detection and Weak Pattern Identification
+* User Authentication System (Register / Login)
+* Personal Dashboard with Password History Tracking
+* Secure Storage of Analysis Metadata (no raw passwords stored)
+* Session-based Access (data visible only when logged in)
+* Analytics Dashboard (average strength, entropy, usage stats)
+* Privacy-focused Design (local analysis with minimal data storage)
+* Supabase Integration for scalable backend
 
 **Host Link: https://password-strength-check-git-634659-radioactive-cookies-projects.vercel.app/**
 
-## 🔌 Intelligent Energy Grid Balancer
+## 🔌 Intelligent Energy Grid Balancer -- Echelon Hackatho MLSA 2026
 An AI-driven smart grid simulator that balances renewable energy supply and demand in real time.
 
-**Stack**
+**Features**
 
-* React + Vite + TailwindCSS
-* Node.js + Express + WebSocket
-* Recharts
-* Render (backend) + Vercel (frontend)
-* Strategy Flowcharts
+* Smart energy balancing for solar & wind generation  
+* MW-based simulation for realistic grid modeling  
+* Real-time calculation of generation, demand & efficiency  
+* Intelligent battery charge/discharge management  
+* Grid frequency monitoring (~50 Hz stability tracking)  
+* Scenario simulation with dynamic user inputs (MW values)  
+* Automated surplus/deficit handling with load balancing  
+* Interactive dashboard with live animated metrics  
+* AI-based prediction for energy generation & demand  
+* Alert system for instability, overload & low battery  
 
 **Host Link: https://intelligent-energy-grid-balancer.vercel.app/**
+
+## 🎥 ASCII Webcam
+
+* Live webcam → ASCII art conversion
+* Adjustable resolution & ASCII density
+* Real-time performance optimization (~60 FPS handling)
+* Screenshot capture & storage system
+
+
 
 ---
 
