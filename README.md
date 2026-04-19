@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm **Pritam Munshi**
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF41&size=28&center=true&vCenter=true&width=700&lines=Radioactive+Cookie;Cybersecurity+Enthusiast;Electronics+%26+Computer+Science+Student;Aspiring+Cybersecurity+Engineer;Security+Research+Enthusiast">
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF41&size=28&center=true&vCenter=true&width=700&lines=Radioactive+Cookie">
 </p>
 
 ---
@@ -11,20 +11,15 @@
 ```
 Name: Pritam Munshi
 Alias: radioactive cookie
-Role: Cybersecurity Learner
 Education: Electronics & Computer Science
-University: Kalinga Institute of Industrial Technology
 ```
-
-🔐 Passionate about **Cybersecurity & Ethical Hacking**
-
-🚩 Currently solving **CTF Challenges**
 
 ⚡ Learning:
 
 * Cybersecurity
-* FastAPI
+* Kali Linux
 * Security research
+* Python
 
 ---
 
