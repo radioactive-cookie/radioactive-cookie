@@ -75,7 +75,7 @@ Cybersecurity project that analyzes password strength.
 
 **Host Link: https://password-strength-check-git-634659-radioactive-cookies-projects.vercel.app/**
 
-## 🔌 Intelligent Energy Grid Balancer -- Echelon Hackatho MLSA 2026
+## 🔌 Intelligent Energy Grid Balancer -- Echelon Hackathon MLSA 2026
 An AI-driven smart grid simulator that balances renewable energy supply and demand in real time.
 
 **Features**
@@ -95,12 +95,33 @@ An AI-driven smart grid simulator that balances renewable energy supply and dema
 
 ## 🎥 ASCII Webcam
 
+**features**
+
 * Live webcam → ASCII art conversion
 * Adjustable resolution & ASCII density
 * Real-time performance optimization (~60 FPS handling)
 * Screenshot capture & storage system
 
 **Host Link: https://ascii-camera-git-main-radioactive-cookies-projects.vercel.app/**
+
+## 🧠 Learning Companion -- Replit 10 Year Buildathon
+
+ **Features**
+
+* AI-powered step-by-step learning through real project building
+* Hybrid learning system (structured roadmap + dynamic AI-generated content)
+* Intelligent code review with personalized feedback and improvement suggestions
+* In-browser coding IDE with real-time code execution and output console
+* Adaptive learning system based on user attempts and mistake patterns
+* Interactive hint system with gradual guidance instead of direct solutions
+* Progress tracking with step-wise completion and learning insights
+* Clean chat-based AI interaction with structured responses
+* Secure backend with input validation and safe rendering of AI responses
+* Separate user and admin dashboards with role-based access control
+* Admin panel for managing users, monitoring system behavior, and controlling features
+* Fully responsive design optimized for desktop
+
+**Host Link: https://learning-companion--radioactivechef.replit.app/**
 
 ---
 
